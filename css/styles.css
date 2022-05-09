@@ -1,5 +1,5 @@
 body {background-color: #DFEBE1;
-      justify-content: baseline;}
+      justify-content: center;}
 
 
     
@@ -9,21 +9,13 @@ body {background-color: #DFEBE1;
 .hero p {color: #007011;
         margin-top: 15%;}
 
-.downtime {justify-content: center;
-        max-width: 100%;
+.downtime {max-width: 100%;
         max-height: auto;
         margin: 10px;
         border: 5px solid black;}
+
 .downtime img {max-width: 100%;
                max-height: auto;
               
 }
 
-.pufc {justify-content: center;
-        max-width: 100%;
-        max-height: auto;
-        margin: 10px;
-        border: 5px solid black;
-       }
-.pufc img {max-width: 100%;
-        max-height: auto;}
